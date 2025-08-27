@@ -1,1 +1,2 @@
-print("hello, guthub!")
+nome = input(" digite seu nome: ")
+print(f"hello, {nome}!")
