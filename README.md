@@ -65,5 +65,3 @@ O layout foi inicialmente desenhado no Excalidraw. Confira o protótipo visual d
 
 ---
 
-## 📁 Organização do Projeto
-
